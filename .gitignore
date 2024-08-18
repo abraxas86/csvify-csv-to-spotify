@@ -1,6 +1,5 @@
-# Personal Playlists
-CSVs/
-
-# Python Venv
+# Python junk
 venv/
-__pycache__/
+
+# for personal batch processing 
+CSVs/
