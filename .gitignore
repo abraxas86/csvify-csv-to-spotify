@@ -1,9 +1,6 @@
 # Personal Playlists
-CSVs/*.csv
+CSVs/
 
 # Python Venv
 venv/
 __pycache__/
-
-# Sensitive Info
-my_secrets.py
